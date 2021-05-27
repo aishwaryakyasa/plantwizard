@@ -1,1 +1,1 @@
-# plantwizard
+# plant
