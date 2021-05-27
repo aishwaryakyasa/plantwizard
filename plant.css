@@ -1,0 +1,187 @@
+#home{
+   width:100%;
+
+
+}
+
+.firstnavbar{
+
+  width: 100%;
+
+  z-index: 2;
+}
+.firstnavbar:hover
+{
+  background-color: grey;
+}
+.colour{
+  font-family: Montserrat;
+}
+
+.brand{
+  font-weight: bold;
+}
+.items{
+  margin-left: 400px;
+  margin-right: 200px;
+}
+.items .item{
+  padding: 100px 100;
+}
+#shop{
+  background:url(plant3dupe.jpg);
+  width:100%;
+  height: 600px;
+  position: fixed;
+   top:0;
+  z-index: -1;
+}
+.homepage{
+
+color: black;
+  padding: 13% 15%;
+  text-align: center;
+
+}
+#ourstory{
+margin-top: 600px;
+  background-color: #6c757d;
+  width:100%;
+  height: 700px;
+}
+.fans{
+  padding: 7% 15%;
+  text-align: center;
+}
+.container-fluid{
+  text-align: center;
+}
+.text
+{
+  margin: 10px 50px;
+  padding-top: 20px;
+}
+.textnew{
+  padding-top: 40px;
+}
+#journal{
+  background-color: #fff;
+  width:100%;
+  height: 820px;
+
+}
+.textjournal{
+
+  padding: 7% 15%;
+  text-align: center;
+}
+.coin{
+  padding-bottom: 5%;
+}
+.allimg{
+  overflow: hidden;
+}
+.allimg:hover{
+
+  box-shadow: 4px 4px 4px 4px black;
+  transform: scale(1.1);
+
+}
+#testomonials{
+  background: url(plantbg3dupe.jpg);
+  z-index: 5;
+  width:100%;
+  height: 700px;
+}
+.testomonialstext{
+  padding: 17% 15%;
+  text-align: center;
+}
+.mytext{
+  color:#fff;
+  font-family: Montserrat;
+  font-weight: bold;
+  text-shadow: 1px 1px black;
+}
+.alltext{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 60px;
+  text-transform:uppercase;
+  text-shadow: 1px 3px black;
+  line-height: 5rem;
+  color: white;
+}
+#giftcard{
+  width:100%;
+  height: 700px;
+  z-index: 5;
+    background-color: #6c757d;
+}
+.gifts{
+  padding: 7% 15%;
+}
+.gridtext{
+  color: white;
+  margin: auto;
+}
+.gridimg .gridimgtext{
+  position:absolute;
+
+}
+#footer{
+  z-index: 5;
+  padding: 5% 7%;
+  background-color: #343a40;
+  color: white;
+  width:100%;
+  height: 300px;
+}
+.crosby{
+  padding-bottom: 20px;
+}
+.footertext{
+  margin-left: 20px;
+}
+.footerlink{
+  margin-right: 60px;
+  float: right;
+}
+.footerlink a{
+  text-decoration: none;
+  color: white;
+}
+.footertext a:hover{
+
+  color: blue;
+
+  cursor: pointer;
+}
+#e-mail{
+  width: 400px;
+height: 50px;
+border-radius: 30px;
+margin: 20px;}
+.footerbutton {
+
+   left: 1140px;
+ margin: 30px;
+}
+.footerbtn{
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border-radius: 50%;
+}
+.footerbtn a{
+  text-decoration:none;
+color: white;
+
+}
+.footerbtn a:hover{
+  text-decoration: none;
+  color: grey;
+}
+.footerlogo{
+  padding: 10px;
+}
